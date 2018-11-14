@@ -9,3 +9,5 @@ list2 = ['a','b','c']
 
 tuple1 = (1,2,3)
 tuple2 = (4,5,6)
+
+t = 'haha'
